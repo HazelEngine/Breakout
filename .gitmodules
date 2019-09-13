@@ -1,0 +1,3 @@
+[submodule "Breakout/vendor/Hazel"]
+	path = Breakout/vendor/Hazel
+	url = https://github.com/HazelEngine/Hazel
